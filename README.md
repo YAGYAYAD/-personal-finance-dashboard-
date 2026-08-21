@@ -23,8 +23,6 @@ overall income vs expense trends.
 - Category-wise expense breakdown (column chart)
 - Year-based slicer for interactive filtering
 
-![Dashboard Screenshot](dashboard-screenshot.png)
-
 ## Note
 Dataset used is a sample/practice dataset used to demonstrate 
 data analysis and dashboarding skills.
