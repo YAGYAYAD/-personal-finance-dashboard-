@@ -1,5 +1,5 @@
 # Personal Finance Dashboard (2020-2024)
-![Personal_Finance_Dashboard](Personal_Finance_Dashboard.png) 
+![Personal_Finance_Dashboard] 
 ## Overview
 An interactive Power BI dashboard analyzing 5 years of personal finance data 
 (2020-2024) to identify spending patterns, category-wise breakdown, and 
